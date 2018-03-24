@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PraktikSesi6</string>
+    <string name="menu_konversi">Menu Konversi</string>
+    <string name="celcius">Celcius</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string-array name="satuan_suhu">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
